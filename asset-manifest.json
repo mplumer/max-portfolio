@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/max-portfolio.git/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/max-portfolio.git/static/js/main.8e296664.chunk.js",
+    "main.js.map": "/max-portfolio.git/static/js/main.8e296664.chunk.js.map",
+    "runtime-main.js": "/max-portfolio.git/static/js/runtime-main.582b6caf.js",
+    "runtime-main.js.map": "/max-portfolio.git/static/js/runtime-main.582b6caf.js.map",
+    "static/js/2.9b176e7d.chunk.js": "/max-portfolio.git/static/js/2.9b176e7d.chunk.js",
+    "static/js/2.9b176e7d.chunk.js.map": "/max-portfolio.git/static/js/2.9b176e7d.chunk.js.map",
+    "static/js/3.380c9c97.chunk.js": "/max-portfolio.git/static/js/3.380c9c97.chunk.js",
+    "static/js/3.380c9c97.chunk.js.map": "/max-portfolio.git/static/js/3.380c9c97.chunk.js.map",
+    "index.html": "/max-portfolio.git/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/max-portfolio.git/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.9b176e7d.chunk.js.LICENSE.txt": "/max-portfolio.git/static/js/2.9b176e7d.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/max-portfolio.git/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.582b6caf.js",
+    "static/js/2.9b176e7d.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.8e296664.chunk.js"
+  ]
+}
